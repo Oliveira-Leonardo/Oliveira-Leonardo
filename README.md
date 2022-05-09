@@ -1,4 +1,4 @@
 - 👋 Olá, meu nome é Leonardo, tenho 23 anos.
 - 👀 Atualmente estou interessado em atuar como dev.
-- 🌱 Eu tenho estudado mais C# em .NET Core, mas ainda não tenho nenhum projeto poraqui 
+- 🌱 Eu tenho estudado mais Java, mas tenho experiência em C# com .NET, python e JS
 - 📫 onde me achar: www.linkedin.com/mwlite/in/leonardo-oliveira-b13180226
