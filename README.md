@@ -1,4 +1,4 @@
-- 👋 Olá, meu nome é Leonardo, tenho 23 anos.
+- 👋 Olá, meu nome é Leonardo, tenho 24 anos.
 - 👀 Atualmente estou interessado em atuar como dev.
-- 🌱 Eu tenho estudado mais Java, mas tenho experiência em C# com .NET, python e JS
+- 🌱 Eu tenho estudado Flutter, mas tenho experiência em C# com .NET, python, JS e também aprendi muito sobre Java, porém Flutter é onde estou focado atualmente
 - 📫 onde me achar: www.linkedin.com/mwlite/in/leonardo-oliveira-b13180226
